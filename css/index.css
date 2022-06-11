@@ -1,7 +1,22 @@
-.navbar{
+.navbar {
   background-color: #4B7BE5;
- 
+
 }
-p{
+
+p {
   text-align: justify;
+}
+
+.categoria {
+  background-color: #5534A5;
+  width:30px;
+  text-align: center;
+  color: white;
+}
+
+.formato{
+  background-color: #5534A5;
+  width:50px;
+  text-align: center;
+  color: white;
 }
