@@ -25,14 +25,3 @@ p {
     text-align: center;
     color: white;
 }
-
-ul {
-    list-style-type: none;
-    align-items: center;
-}
-
-li {
-    display: inline;
-    text-align: center;
-    padding: 5px;
-}
