@@ -130,7 +130,7 @@
                                 <td>
                                     <div class="form-group mx-sm-4 pt-3">
                                         <label for="exampleInputPassword1" class="form-label">Direccion</label>
-                                        <input type="text" class="form-control" placeholder="Ingrese su direccion"
+                                        <input type="text" class="form-control" placeholder="Ingrese su direccion HOLAAA"
                                             name="Direccion" id="Direccion" value="<?=isset($cliente)?$cliente['Direccion']:''?>">
                                     </div>
                                 </td>
